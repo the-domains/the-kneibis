@@ -1,4 +1,3 @@
-layout_spectrum: 0.2961243102326989
 typography_spectrum: 0.046780253294855356
 color:
   brandStrength: 0.3119064215570688
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.2961243102326989
 name: the kneibis
+title: welcome to the jungle
